@@ -1,2 +1,2 @@
 ### status:
-![Hello, World](https://github.com/JS-Demi/hexlet-my-first-workflow/blob/main/.github/workflows/blank.yml)(https://github.com/JS-Demi/hexlet-my-first-workflow/actions)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
